@@ -138,4 +138,14 @@ This project follows a real-world senior data analyst workflow:
   6. Deliver clean, reproducible outputs
 
 Built with Python 3 · No proprietary tools required.
+
+
+## Author
+
+**Rupali Kanade**  
+Aspiring Data Analyst  
+SQL | Python | Tableau | Streamlit | Business Intelligence
+
+GitHub: https://github.com/rupalikanade28-ui  
+LinkedIn: https://linkedin.com/in/rupalikanade
 ══════════════════════════════════════════════════════════════════
