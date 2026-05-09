@@ -140,3 +140,13 @@ streamlit run dashboard/app.py
 7. Funnel Analysis — sessions → conversion by channel + device
 8. Geographic View — city bars + treemap
 9. Churn Risk — risk distribution + win-back list + cross-sell pairs
+
+
+## Author
+
+**Rupali Kanade**  
+Aspiring Data Analyst  
+SQL | Python | Tableau | Streamlit | Business Intelligence
+
+GitHub: https://github.com/rupalikanade28-ui  
+LinkedIn: https://linkedin.com/in/rupalikanade
