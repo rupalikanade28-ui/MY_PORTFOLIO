@@ -6,7 +6,7 @@
 DOMAIN   : Marketing / E-Commerce
 DATASET  : 2,240 customers · 28 features · 6 marketing campaigns
 TOOLS    : Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
-
+AUTHOR   : Rupali Kanade
 ──────────────────────────────────────────────────────────────────
 PROJECT STRUCTURE
 ──────────────────────────────────────────────────────────────────
